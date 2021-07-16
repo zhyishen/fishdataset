@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset535_png.rf.62283a83054373e9c6a782387ff52865.jpg</filename>
+	<path>FishDataset535_png.rf.62283a83054373e9c6a782387ff52865.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scombridae -Tunas-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>398</xmax>
+			<ymin>126</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

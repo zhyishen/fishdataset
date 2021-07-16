@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset249_png.rf.72460c94361ae7cedb78f27b0dbc2145.jpg</filename>
+	<path>FishDataset249_png.rf.72460c94361ae7cedb78f27b0dbc2145.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shark -Selachimorpha-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>219</xmin>
+			<xmax>353</xmax>
+			<ymin>189</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

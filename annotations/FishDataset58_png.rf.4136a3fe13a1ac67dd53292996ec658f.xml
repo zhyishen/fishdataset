@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset58_png.rf.4136a3fe13a1ac67dd53292996ec658f.jpg</filename>
+	<path>FishDataset58_png.rf.4136a3fe13a1ac67dd53292996ec658f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>122</xmax>
+			<ymin>262</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>263</xmax>
+			<ymin>270</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>238</xmin>
+			<xmax>327</xmax>
+			<ymin>185</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>245</xmin>
+			<xmax>309</xmax>
+			<ymin>118</ymin>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>328</xmin>
+			<xmax>394</xmax>
+			<ymin>54</ymin>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>325</xmin>
+			<xmax>391</xmax>
+			<ymin>166</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

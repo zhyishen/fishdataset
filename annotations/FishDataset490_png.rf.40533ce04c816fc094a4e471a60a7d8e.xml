@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset490_png.rf.40533ce04c816fc094a4e471a60a7d8e.jpg</filename>
+	<path>FishDataset490_png.rf.40533ce04c816fc094a4e471a60a7d8e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carangidae -Jacks-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>390</xmax>
+			<ymin>82</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

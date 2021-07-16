@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset570_png.rf.a7e8911ae89f791bda9993d16fe49ba6.jpg</filename>
+	<path>FishDataset570_png.rf.a7e8911ae89f791bda9993d16fe49ba6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>393</xmax>
+			<ymin>124</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset166_png.rf.3d70e1169d8b31b161b9c080a2e9ff25.jpg</filename>
+	<path>FishDataset166_png.rf.3d70e1169d8b31b161b9c080a2e9ff25.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scombridae -Tunas-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>350</xmax>
+			<ymin>115</ymin>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scombridae -Tunas-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>333</xmax>
+			<ymin>301</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

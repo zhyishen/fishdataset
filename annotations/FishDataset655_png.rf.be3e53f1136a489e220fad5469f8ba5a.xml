@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset655_png.rf.be3e53f1136a489e220fad5469f8ba5a.jpg</filename>
+	<path>FishDataset655_png.rf.be3e53f1136a489e220fad5469f8ba5a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>223</xmax>
+			<ymin>177</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pomacentridae -Damselfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>178</xmax>
+			<ymin>105</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

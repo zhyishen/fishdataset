@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset642_png.rf.f17fb9659a9a1acfd0639c3a90ab7c96.jpg</filename>
+	<path>FishDataset642_png.rf.f17fb9659a9a1acfd0639c3a90ab7c96.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>402</xmax>
+			<ymin>65</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>389</xmax>
+			<ymin>1</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

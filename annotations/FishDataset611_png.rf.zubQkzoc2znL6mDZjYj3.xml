@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset611_png.rf.zubQkzoc2znL6mDZjYj3.jpg</filename>
+	<path>FishDataset611_png.rf.zubQkzoc2znL6mDZjYj3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snapper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>330</xmax>
+			<ymin>68</ymin>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

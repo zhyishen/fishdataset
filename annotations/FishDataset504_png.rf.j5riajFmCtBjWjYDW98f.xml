@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset504_png.rf.j5riajFmCtBjWjYDW98f.jpg</filename>
+	<path>FishDataset504_png.rf.j5riajFmCtBjWjYDW98f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grouper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>390</xmax>
+			<ymin>48</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

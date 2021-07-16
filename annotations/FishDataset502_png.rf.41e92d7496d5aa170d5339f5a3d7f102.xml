@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset502_png.rf.41e92d7496d5aa170d5339f5a3d7f102.jpg</filename>
+	<path>FishDataset502_png.rf.41e92d7496d5aa170d5339f5a3d7f102.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Serranidae -Groupers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>403</xmax>
+			<ymin>69</ymin>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,105 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset267_png.rf.2be34a0ea01cca4569ca59960aabe412.jpg</filename>
+	<path>FishDataset267_png.rf.2be34a0ea01cca4569ca59960aabe412.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>198</xmax>
+			<ymin>88</ymin>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>161</xmax>
+			<ymin>162</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>369</xmax>
+			<ymin>60</ymin>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>148</xmax>
+			<ymin>292</ymin>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>370</xmax>
+			<ymin>249</ymin>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>289</xmax>
+			<ymin>305</ymin>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>302</xmax>
+			<ymin>141</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

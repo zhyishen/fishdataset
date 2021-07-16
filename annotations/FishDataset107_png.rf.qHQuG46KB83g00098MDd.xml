@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset107_png.rf.qHQuG46KB83g00098MDd.jpg</filename>
+	<path>FishDataset107_png.rf.qHQuG46KB83g00098MDd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>409</xmax>
+			<ymin>16</ymin>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset28_png.rf.WdGEWtGu7Yjoh6cWilBJ.jpg</filename>
+	<path>FishDataset28_png.rf.WdGEWtGu7Yjoh6cWilBJ.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>342</xmax>
+			<ymin>195</ymin>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

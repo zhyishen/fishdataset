@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset118_png.rf.fdd9dc35f3e3784a51d083b3e71f1607.jpg</filename>
+	<path>FishDataset118_png.rf.fdd9dc35f3e3784a51d083b3e71f1607.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>116</xmax>
+			<ymin>63</ymin>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>339</xmax>
+			<ymin>60</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>145</xmax>
+			<ymin>157</ymin>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>251</xmax>
+			<ymin>121</ymin>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>220</xmax>
+			<ymin>230</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lutjanidae -Snappers-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>313</xmax>
+			<ymin>282</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

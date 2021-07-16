@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset413_png.rf.b351bf26e91382371871cdb7ded501e0.jpg</filename>
+	<path>FishDataset413_png.rf.b351bf26e91382371871cdb7ded501e0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>377</xmax>
+			<ymin>78</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>105</xmax>
+			<ymin>144</ymin>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>105</xmax>
+			<ymin>211</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>87</xmin>
+			<xmax>184</xmax>
+			<ymin>253</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>232</xmax>
+			<ymin>214</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

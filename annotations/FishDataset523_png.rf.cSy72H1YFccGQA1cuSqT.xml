@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset523_png.rf.cSy72H1YFccGQA1cuSqT.jpg</filename>
+	<path>FishDataset523_png.rf.cSy72H1YFccGQA1cuSqT.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>390</xmax>
+			<ymin>135</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

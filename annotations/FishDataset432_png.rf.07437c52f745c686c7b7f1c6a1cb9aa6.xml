@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset432_png.rf.07437c52f745c686c7b7f1c6a1cb9aa6.jpg</filename>
+	<path>FishDataset432_png.rf.07437c52f745c686c7b7f1c6a1cb9aa6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scaridae -Parrotfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>390</xmax>
+			<ymin>117</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Labridae -Wrasse-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>234</xmin>
+			<xmax>300</xmax>
+			<ymin>108</ymin>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

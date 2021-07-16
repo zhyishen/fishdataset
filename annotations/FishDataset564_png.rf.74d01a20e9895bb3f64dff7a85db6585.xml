@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset564_png.rf.74d01a20e9895bb3f64dff7a85db6585.jpg</filename>
+	<path>FishDataset564_png.rf.74d01a20e9895bb3f64dff7a85db6585.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>370</xmax>
+			<ymin>137</ymin>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

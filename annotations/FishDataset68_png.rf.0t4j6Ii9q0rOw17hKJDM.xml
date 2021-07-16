@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset68_png.rf.0t4j6Ii9q0rOw17hKJDM.jpg</filename>
+	<path>FishDataset68_png.rf.0t4j6Ii9q0rOw17hKJDM.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>403</xmax>
+			<ymin>5</ymin>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

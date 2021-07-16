@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset11_png.rf.eedc80bf20f0cfa163cb30cb3acd594a.jpg</filename>
+	<path>FishDataset11_png.rf.eedc80bf20f0cfa163cb30cb3acd594a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carangidae -Jacks-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>249</xmax>
+			<ymin>1</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carangidae -Jacks-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>416</xmax>
+			<ymin>4</ymin>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carangidae -Jacks-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>417</xmax>
+			<ymin>220</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

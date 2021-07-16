@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset529_png.rf.I6aZgsr34d2EK5uWCA6u.jpg</filename>
+	<path>FishDataset529_png.rf.I6aZgsr34d2EK5uWCA6u.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surgeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>288</xmax>
+			<ymin>160</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

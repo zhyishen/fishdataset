@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>FishDataset101_png.rf.b8eb087496d3a1e38c03f91232d63403.jpg</filename>
+	<path>FishDataset101_png.rf.b8eb087496d3a1e38c03f91232d63403.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>342</xmax>
+			<ymin>253</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>181</xmin>
+			<xmax>203</xmax>
+			<ymin>157</ymin>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>253</xmax>
+			<ymin>91</ymin>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>192</xmax>
+			<ymin>1</ymin>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Acanthuridae -Surgeonfishes-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>28</xmax>
+			<ymin>274</ymin>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>
